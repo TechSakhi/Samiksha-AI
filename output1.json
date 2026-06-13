@@ -1,0 +1,92 @@
+[
+  {
+    "Review_ID": "REV007",
+    "Is_Spam_Or_Noise": true,
+    "Primary_Sentiment": "Positive",
+    "Aspect_Splits": [],
+    "Contains_Sarcasm": false,
+    "Action_Item": "Archive generic praise as it lacks actionable product detail."
+  },
+  {
+    "Review_ID": "REV008",
+    "Is_Spam_Or_Noise": false,
+    "Primary_Sentiment": "Positive",
+    "Aspect_Splits": [
+      {
+        "Aspect_Name": "Fragrance",
+        "Sentiment": "Positive",
+        "Extracted_Text_Snippet": "no fragrance"
+      }
+    ],
+    "Contains_Sarcasm": false,
+    "Action_Item": "Highlight the 'fragrance-free' and 'no white cast' features in product titles to drive SEO."
+  },
+  {
+    "Review_ID": "REV009",
+    "Is_Spam_Or_Noise": false,
+    "Primary_Sentiment": "Negative",
+    "Aspect_Splits": [],
+    "Contains_Sarcasm": false,
+    "Action_Item": "Investigate the product's longevity as customers report it becomes 'inefficient' after 2-3 hours."
+  },
+  {
+    "Review_ID": "REV010",
+    "Is_Spam_Or_Noise": false,
+    "Primary_Sentiment": "Negative",
+    "Aspect_Splits": [],
+    "Contains_Sarcasm": false,
+    "Action_Item": "Flag 'Skin damage' reports for an immediate safety and ingredient sensitivity review."
+  },
+  {
+    "Review_ID": "REV011",
+    "Is_Spam_Or_Noise": false,
+    "Primary_Sentiment": "Positive",
+    "Aspect_Splits": [
+      {
+        "Aspect_Name": "Hydration",
+        "Sentiment": "Positive",
+        "Extracted_Text_Snippet": "very good for dry skin people"
+      }
+    ],
+    "Contains_Sarcasm": false,
+    "Action_Item": "Market specifically to individuals with dry skin who benefit most from the formulation's hydrating properties."
+  },
+  {
+    "Review_ID": "REV012",
+    "Is_Spam_Or_Noise": false,
+    "Primary_Sentiment": "Negative",
+    "Aspect_Splits": [],
+    "Contains_Sarcasm": false,
+    "Action_Item": "Review UV filter efficacy to address complaints regarding skin looking 'dull' and 'tanning' after use."
+  },
+  {
+    "Review_ID": "REV013",
+    "Is_Spam_Or_Noise": false,
+    "Primary_Sentiment": "Negative",
+    "Aspect_Splits": [],
+    "Contains_Sarcasm": false,
+    "Action_Item": "Evaluate price-per-ml against competitors to address customer concerns about being 'overpriced' for a 'small quantity'."
+  },
+  {
+    "Review_ID": "REV014",
+    "Is_Spam_Or_Noise": false,
+    "Primary_Sentiment": "Positive",
+    "Aspect_Splits": [
+      {
+        "Aspect_Name": "Hydration",
+        "Sentiment": "Positive",
+        "Extracted_Text_Snippet": "keeps my lips hydrated all day long"
+      }
+    ],
+    "Contains_Sarcasm": false,
+    "Action_Item": "Promote the 24-hour hydration claims as it is a major driver for repeat purchases."
+  },
+  {
+    "Review_ID": "REV015",
+    "Is_Spam_Or_Noise": true,
+    "Primary_Sentiment": "Neutral",
+    "Aspect_Splits": [],
+    "Contains_Sarcasm": false,
+    "Action_Item": "Ignore reviews that focus exclusively on shipping or delivery logistics rather than product quality."
+  }
+]
